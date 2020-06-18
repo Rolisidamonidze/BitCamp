@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(114, 211, 206);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-size:  1rem;
+}
+#quote-box{
+    background-color: #ffffff;
+    display: inline-block;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 4px;
+}
+#quote-box * {
+    margin: 5px;
+    color: rgb(24, 71, 69);
+}
